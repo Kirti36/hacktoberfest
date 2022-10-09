@@ -1683,3 +1683,10 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+#### Name: [Parmar Kirti](https://github.com/kirti36)
+
+- Education: B.Tech, A.D. Patel Institute Of Technolgy, Anand, Gujarat
+- Place: Anand, India
+- Bio: Student, Web developer
+- GitHub: [kirti36](https://github.com/kirti36)
